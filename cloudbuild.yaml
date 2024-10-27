@@ -19,7 +19,7 @@ steps:
 # Substitutions to make the config dynamic
 substitutions:
   _SERVICE_NAME: "express-app"
-  _REGION: "YOUR_REGION"
+  _REGION: "us-central1"
 
 # Set permissions
 images:
