@@ -12,7 +12,7 @@ steps:
     entrypoint: 'gcloud'
     args: ['run', 'deploy', 'express-app', 
            '--image', 'gcr.io/$PROJECT_ID/express-app',
-           '--region', 'europe-west3',
+           '--region', 'us-central1',
            '--platform', 'managed',
            '--allow-unauthenticated']
 
