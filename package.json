@@ -7,7 +7,7 @@
     "start": "node app.js"
   },
   "keywords": ["nodejs", "express", "website", "app-company"],
-  "author": "Your Name",
+  "author": "David Mabaso",
   "license": "MIT",
   "dependencies": {
     "ejs": "^3.1.8",
